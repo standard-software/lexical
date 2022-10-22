@@ -36,6 +36,9 @@
     "yjs": ">=13.5.22"
   },
   "devDependencies": {
+    "@babel/plugin-transform-flow-strip-types": "^7.19.0",
+    "@babel/preset-react": "^7.18.6",
+    "@rollup/plugin-babel": "^6.0.2",
     "@types/lodash-es": "^4.14.182",
     "@vitejs/plugin-react": "^1.0.7",
     "vite": "^2.8.0",
